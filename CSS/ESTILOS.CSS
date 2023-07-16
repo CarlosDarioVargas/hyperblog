@@ -1,10 +1,8 @@
 body
 {
-<<<<<<< HEAD
-    color: blue;
-=======
+
     color: red;
->>>>>>> cabecera
+
     text-align: center;
     font-family: "Comic Sans";
     font-size: 16px;
@@ -41,5 +39,13 @@ body
 #container h1
 {
     font-size: 20px;
+
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
 
 }
